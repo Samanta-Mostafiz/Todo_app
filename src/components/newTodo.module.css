@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(196, 166, 193);
+    width: 100%;
+    min-height: 50vh;
+}
+.title{
+    color: rgb(83, 4, 4);
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 12px;
+
+}
+ #title{
+margin: 2px;
+}
